@@ -1,6 +1,6 @@
 # loki-async-reference adapter
 
-> A Simple async adapter for LokiJS, suitable to use with React Native
+> A Simple async adapter for LokiJS, suitable to use with React Native. Based off of LokiFSStructuredAdapter.
 
 ### Usage Examples
 

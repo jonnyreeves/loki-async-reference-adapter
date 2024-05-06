@@ -1,7 +1,7 @@
 {
   "name": "loki-async-reference-adapter",
   "version": "1.0.0",
-  "description": "Simple async adapter for LokiJS, suitable to use with React Native",
+  "description": "Simple async adapter for LokiJS, suitable to use with React Native. Based off of LokiFSStructuredAdapter",
   "main": "index.js",
   "scripts": {
     "test": "jest"

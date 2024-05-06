@@ -1,0 +1,17 @@
+{
+  "name": "loki-async-reference-adapter",
+  "version": "1.0.0",
+  "description": "Simple async adapter for LokiJS, suitable to use with React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.5",
+    "jest": "^29.7.0",
+    "jest-when": "^3.6.0",
+    "lokijs": "^1.5.12"
+  }
+}

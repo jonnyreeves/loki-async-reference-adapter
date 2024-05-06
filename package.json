@@ -4,7 +4,7 @@
   "description": "Simple async adapter for LokiJS, suitable to use with React Native",
   "main": "index.js",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",

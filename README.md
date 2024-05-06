@@ -3,6 +3,10 @@
 > A Simple async adapter for LokiJS, suitable to use with React Native. Based off of LokiFSStructuredAdapter.
 
 ### Usage Examples
+#### Installation
+```bash
+npm install loki-async-reference-adapter
+```
 
 #### Basic usage within a React Native project
 ```javascript
